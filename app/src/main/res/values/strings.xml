@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gbook</string>
+
+    <!--LoginACtivity-->
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="register">Registro</string>
+
+    <!--Menu-->
+    <string name="action_search_text">Buscar</string>
+    <string name="action_setting_text">Ajustes</string>
+    <string name="action_logout_text">Cerrar sesión</string>
+
+    <!--RegisterActivity-->
+    <string name="reg_email">Email</string>
+    <string name="reg_password">Contraseña</string>
+    <string name="reg_password2">Confirmar contraseña</string>
+    <string name="register_reg_btn">Registrate</string>
+    <string name="login_reg_btn">Volver al login </string>
+
+
+    <!--AddVideogameActivity-->
+    <string name="name_videogame">Nombre</string>
+    <string name="gen_videogame">Genero</string>
+    <string name="synopsis_videogame">Sinopsis</string>
+    <string name="finished_videogame">¿Acabado?</string>
+    <string name="add_videogame_btn">Añadir videojuego</string>
+
+    <!--ContextualMenu-->
+    <string name="opcion">Borrar</string>
+</resources>
